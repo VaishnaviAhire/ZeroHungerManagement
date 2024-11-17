@@ -1,0 +1,7 @@
+name,Hotelid,address,phone,emailid,adharno,area,Gstin
+[name],[Hotelid],[address],[phone],[email],[aadhar],[area],NULL
+"Hotel ABC",1234567890,"123 Main Street",9876543210,hotelabc@example.com,123456789012,Pune,NULL
+,15336802,,,,,Pune,
+"Aradhana Hotel",15331915,"Near sp petrol pump , kalewadi chowk ",9822036541,aradhanahotel@gmail.com,123456789123,Lavasa,65623565
+konkankinara,15334593,"csvdghd bds",35356544,kokankinara@gmail.com,5363565613221,alandi,25678654121
+"Mayuri Hotel",15333684,"lavasa city opposite road",25639565,mayuri@gmail.com,26532655322,Lavasa,265532655322
